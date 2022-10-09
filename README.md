@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# Ging Sample Name of Streamlit App
 
 Description of the app ...
 
